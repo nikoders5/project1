@@ -9,6 +9,7 @@ import datetime
 from repository.repository import Repository
 from ml_model.ml_model import MLModel
 import logging
+print("h")
 logger = Utils().user_path()
 logging.basicConfig(filename=logger, level=logging.DEBUG)
 class TestData(object):
