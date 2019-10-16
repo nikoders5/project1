@@ -85,7 +85,6 @@ for y in range(len(newf)):
         print ("line",y+1,"is not critical ") 
     
 
-
 print ("--------to do--------------------")
 
 if ((b/a)*100) > 50:
