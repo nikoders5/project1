@@ -86,7 +86,6 @@ for y in range(len(newf)):
     
 
 
-
 print ("--------to do--------------------")
 
 if ((b/a)*100) > 50:
